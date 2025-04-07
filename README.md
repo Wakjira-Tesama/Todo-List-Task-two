@@ -77,3 +77,4 @@ open index.html
    HTML
    CSS
    JavaScript
+   TypeScript
